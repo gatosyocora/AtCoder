@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TiCID4ouoU9Igau8kSk1JKMGCMZEWtMs2Ee1eyLyQE+wu9FtTKLpuqqI7nAb8jcyMAYTEBokrETJ4+4Ft6dvOQ==",
+  "success": true,
+  "projectFilePath": "D:\\prog\\AtCoder\\ABC154\\e\\e.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
