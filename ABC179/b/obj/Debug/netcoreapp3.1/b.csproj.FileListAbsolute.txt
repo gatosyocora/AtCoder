@@ -1,0 +1,13 @@
+D:\prog\AtCoder\ABC179\b\obj\Debug\netcoreapp3.1\b.csprojAssemblyReference.cache
+D:\prog\AtCoder\ABC179\b\obj\Debug\netcoreapp3.1\b.AssemblyInfoInputs.cache
+D:\prog\AtCoder\ABC179\b\obj\Debug\netcoreapp3.1\b.AssemblyInfo.cs
+D:\prog\AtCoder\ABC179\b\obj\Debug\netcoreapp3.1\b.csproj.CoreCompileInputs.cache
+D:\prog\AtCoder\ABC179\b\bin\Debug\netcoreapp3.1\b.exe
+D:\prog\AtCoder\ABC179\b\bin\Debug\netcoreapp3.1\b.deps.json
+D:\prog\AtCoder\ABC179\b\bin\Debug\netcoreapp3.1\b.runtimeconfig.json
+D:\prog\AtCoder\ABC179\b\bin\Debug\netcoreapp3.1\b.runtimeconfig.dev.json
+D:\prog\AtCoder\ABC179\b\bin\Debug\netcoreapp3.1\b.dll
+D:\prog\AtCoder\ABC179\b\bin\Debug\netcoreapp3.1\b.pdb
+D:\prog\AtCoder\ABC179\b\obj\Debug\netcoreapp3.1\b.dll
+D:\prog\AtCoder\ABC179\b\obj\Debug\netcoreapp3.1\b.pdb
+D:\prog\AtCoder\ABC179\b\obj\Debug\netcoreapp3.1\b.genruntimeconfig.cache
