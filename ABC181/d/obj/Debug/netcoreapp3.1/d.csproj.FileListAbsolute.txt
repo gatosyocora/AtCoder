@@ -1,0 +1,4 @@
+D:\prog\AtCoder\ABC181\d\obj\Debug\netcoreapp3.1\d.csprojAssemblyReference.cache
+D:\prog\AtCoder\ABC181\d\obj\Debug\netcoreapp3.1\d.AssemblyInfoInputs.cache
+D:\prog\AtCoder\ABC181\d\obj\Debug\netcoreapp3.1\d.AssemblyInfo.cs
+D:\prog\AtCoder\ABC181\d\obj\Debug\netcoreapp3.1\d.csproj.CoreCompileInputs.cache
