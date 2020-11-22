@@ -1,0 +1,13 @@
+D:\prog\AtCoder\ABC183\b\obj\Debug\netcoreapp3.1\atcoder.csprojAssemblyReference.cache
+D:\prog\AtCoder\ABC183\b\obj\Debug\netcoreapp3.1\atcoder.AssemblyInfoInputs.cache
+D:\prog\AtCoder\ABC183\b\obj\Debug\netcoreapp3.1\atcoder.AssemblyInfo.cs
+D:\prog\AtCoder\ABC183\b\obj\Debug\netcoreapp3.1\atcoder.csproj.CoreCompileInputs.cache
+D:\prog\AtCoder\ABC183\b\bin\Debug\netcoreapp3.1\atcoder.exe
+D:\prog\AtCoder\ABC183\b\bin\Debug\netcoreapp3.1\atcoder.deps.json
+D:\prog\AtCoder\ABC183\b\bin\Debug\netcoreapp3.1\atcoder.runtimeconfig.json
+D:\prog\AtCoder\ABC183\b\bin\Debug\netcoreapp3.1\atcoder.runtimeconfig.dev.json
+D:\prog\AtCoder\ABC183\b\bin\Debug\netcoreapp3.1\atcoder.dll
+D:\prog\AtCoder\ABC183\b\bin\Debug\netcoreapp3.1\atcoder.pdb
+D:\prog\AtCoder\ABC183\b\obj\Debug\netcoreapp3.1\atcoder.dll
+D:\prog\AtCoder\ABC183\b\obj\Debug\netcoreapp3.1\atcoder.pdb
+D:\prog\AtCoder\ABC183\b\obj\Debug\netcoreapp3.1\atcoder.genruntimeconfig.cache
